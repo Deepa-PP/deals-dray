@@ -1,8 +1,8 @@
-./Screenshot
-./Screenshot1
+/Screenshot
+/Screenshot1
 chromedriver.exe
-gekodriver.exe
-.settings
+geckodriver.exe
+./.settings
 .project
 .classpath
-bin
+/bin
