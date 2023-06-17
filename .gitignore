@@ -2,3 +2,7 @@
 ./Screenshot1
 chromedriver.exe
 gekodriver.exe
+.settings
+.project
+.classpath
+bin
